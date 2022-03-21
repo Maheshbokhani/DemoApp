@@ -1,0 +1,10 @@
+export const ACTIONREQUIRED = "Action Required";
+export const ACTIVE = "Active";
+export const CLOSED = "Closed";
+export const CONFIRMED = "Confirmed";
+export const REVIEWPENDING = "Review Pending";
+export const PENDING = "Pending";
+export const SUBMIT_TO_SCHOOL = "Submitted To School";
+export const START_APPLICATION = "Start Application";
+export const READY_FOR_VISA = "Ready For Visa";
+export const APPROVED = "Accepted";
